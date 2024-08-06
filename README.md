@@ -1,5 +1,16 @@
 # Steps
 
+## Installing spark
+- install scala, sbt, python normaly
+- download the tar.gz from the latest version of apache spark and create SPARK_HOME
+- %SPARK_HOME% and %SPARK_HOME%/bin to the path envirroment variables
+- copy winutils.exe and hadoop.dll to %SPARK_HOME%/bin
+- cmd > pyspark
+- cmd spark-shell
+- http://localhost:4040/
+
+# Steps
+
 ## new scala project
 - sbt
 - jdk correto-17
